@@ -27,8 +27,11 @@ Clone this repository to your computer.
 Access the file in your terminal. When it is open:
 
 1. Install required programs by typing in ```npm install```
-2. Seed the data by using ```node seeds/index.js```
-2. Type in ```node index.js``` to run the application
+2. Type ```mysql -u root -p``` into your terminal. Enter password
+3. Enter ```SOURCE db/schema.sql```
+4. Exit mysql by pressing CTRL+C
+5. Seed the data by using ```node seeds/index.js```
+6. Type in ```node index.js``` to run the application
 
 https://youtu.be/6hT4Bw1YNKk
 
