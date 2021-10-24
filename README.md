@@ -33,7 +33,7 @@ Access the file in your terminal. When it is open:
 5. Seed the data by using ```node seeds/index.js```
 6. Type in ```node index.js``` to run the application
 
-https://youtu.be/6hT4Bw1YNKk
+https://youtu.be/PlDOUOxMSJk
 
 ## License
 
